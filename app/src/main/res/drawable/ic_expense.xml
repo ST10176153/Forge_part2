@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Wallet Base -->
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M3,6h18c0.55,0 1,0.45 1,1v10c0,0.55 -0.45,1 -1,1H3c-0.55,0 -1,-0.45 -1,-1V7c0,-0.55 0.45,-1 1,-1z"/>
+
+    <!-- Flap or top band -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M3,6l6,-3h12c0.55,0 1,0.45 1,1v2H3z"/>
+
+    <!-- Downward Arrow representing Expense -->
+    <path
+        android:fillColor="#FFCDD2"
+        android:pathData="M13,9v3h2l-3,3l-3,-3h2V9h2z"/>
+</vector>
