@@ -24,7 +24,7 @@ To run the Budget Tracking App locally on your device:
 
 Clone the repository to your local machine using:
 
-git clone https://github.com/your-repository/budget-tracking-app.git
+git clone https://github.com/ST10176153/Forge_part2.git
 Open the project in Android Studio.
 
 Connect your Android device or start an emulator.
